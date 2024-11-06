@@ -12,6 +12,8 @@ Este repositório contém [Estudos e pequenos desenvolvimentos que fiz e estou f
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="Logo PHP" width="90">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40">
+
 ## Tecnologias Utilizadas
 
 - **Linguagem:** PHP
