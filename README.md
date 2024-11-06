@@ -14,8 +14,6 @@ Este repositório contém [Estudos e pequenos desenvolvimentos que fiz e estou f
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40">
 
-<img src="![WAMP](https://github.com/user-attachments/assets/fe3ddf98-13fe-49b6-bfaf-ae4e588c7b14)" alt="Logo WAMP Server" width="30">
-
 ## Tecnologias Utilizadas
 
 - **Linguagem:** PHP
