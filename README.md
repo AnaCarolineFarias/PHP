@@ -10,11 +10,14 @@ Meu nome é **Ana Caroline de Oliveira Farias**. Sou uma desenvolvedora apaixona
 
 Este repositório contém [Estudos e pequenos desenvolvimentos que fiz e estou fazendo em PHP]. A ideia principal é [Mostrar minhas habilidades nesta linguagem, mostrar que estou indo atrás do conhecimento e aprimorando ela]. 
 
-![Logo PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="Logo PHP" width="50">
 
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Linguagem:** PHP
 - **FrontEnd:** HTML & CSS
-- **VS Code**
+
+## Ferramentas Utilizadas
+- **Visual Studio Code**
+- **WAMP Server 64**
 
